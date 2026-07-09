@@ -1,0 +1,1 @@
+"""Medical CLIP training utilities."""
